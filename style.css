@@ -1,0 +1,18 @@
+ul{
+    display:flex;
+    background-color:grey;
+    list-style-type:none;
+    justify-content: center;
+}
+ul li{
+    padding: 10px;
+    color:white;
+}
+div{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+header{
+    background-color: black;
+    color:white;
+}
